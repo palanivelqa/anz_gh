@@ -7,7 +7,6 @@ jobs:
       contents: read
       pull-requests: write
 
-
     steps:
     - uses: actions/labeler@v4
       with:
